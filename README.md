@@ -17,7 +17,7 @@ There are 10 sprints as follow :
 ### Verify badge :
 - Certified Professional Data Analyst from DataRockie
 
-  <img src="https://github.com/wuttikornG/data-projects/blob/main/Certified%20Professional%20Data%20Analyst%20Digital%20Badge.png" width="100" height="100" />
+  <img src="https://github.com/wuttikornG/badges/blob/main/Certified%20Professional%20Data%20Analyst%20Digital%20Badge.png" width="100" height="100" />
   <!--Credential URL : https://badgr.com/public/assertions/VmcgZRsWRfiTbwKt93t2sg-->
 
 - Google Data Analytics Specialization from Coursera

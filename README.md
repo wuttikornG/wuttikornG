@@ -22,5 +22,5 @@ There are 10 sprints as follow :
 
 - Google Data Analytics Specialization from Coursera
 
-  <img src="https://github.com/wuttikornG/data-projects/blob/main/google-data-analytics-certificate.2.png" width="100" height="100" />
+  <img src="https://github.com/wuttikornG/badges/blob/main/google-data-analytics-certificate.2.png" width="100" height="100" />
   <!--Credential URL : https://www.coursera.org/account/accomplishments/specialization/certificate/9WMFQ632V8QQ-->

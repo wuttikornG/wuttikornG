@@ -1,16 +1,28 @@
 ### Hi there 👋
+😀 I’m currently learning data science skills from online courses.
 
-<!--
-**wuttikornG/wuttikornG** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+There are 10 sprints as follow : 
 
-Here are some ideas to get you started:
+- Spreadsheets
+- Database (SQL)
+- R Programming
+- Data transformation
+- Data Visualization
+- Essential Statistics for Data Analyst
+- Essential Machine Learning for Data Analyst
+- Python Programming
+- Essential Python for Data Analyst
+- Dashboard
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Verify badge :
+- Certified Professional Data Analyst from DataRockie
+
+  <img src="https://github.com/wuttikornG/data-projects/blob/main/Certified%20Professional%20Data%20Analyst%20Digital%20Badge.png" width="100" height="100" />
+
+  <!--Credential URL : https://badgr.com/public/assertions/VmcgZRsWRfiTbwKt93t2sg-->
+
+- Google Data Analytics Specialization from Coursera
+
+  <img src="https://github.com/wuttikornG/data-projects/blob/main/google-data-analytics-certificate.2.png" width="100" height="100" />
+  
+  <!--Credential URL : https://www.coursera.org/account/accomplishments/specialization/certificate/9WMFQ632V8QQ-->
